@@ -1,5 +1,9 @@
 # RAG Customer Support Assistant
 
+
+###NAME: TANISHKA PRASAD JADHAV
+-ORG: INNOMATICS RESEARCH LABS
+-INTERN ID: IN226010302
 ## Overview
 
 This project now supports two workflows in one app:
@@ -50,3 +54,7 @@ This project now supports two workflows in one app:
 - Add authentication and role-based access
 - Connect HITL escalation to a ticketing tool
 - Support multiple PDFs and persistent vector storage
+
+
+## VIDEO EXPLAINATION
+https://drive.google.com/file/d/1fFXmtpQE7MMlQ2G3sv3-tENeCsVtdxUB/view?usp=sharing
