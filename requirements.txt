@@ -1,0 +1,7 @@
+streamlit
+langchain
+langgraph
+chromadb
+sentence-transformers
+pypdf
+groq
