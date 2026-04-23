@@ -57,4 +57,4 @@ This project now supports two workflows in one app:
 
 
 ## VIDEO EXPLAINATION
-https://drive.google.com/file/d/1fFXmtpQE7MMlQ2G3sv3-tENeCsVtdxUB/view?usp=sharing
+https://drive.google.com/file/d/1pPX9tvaZJ06_yzcIHs8zrzn7l_wWf8lG/view?usp=sharing
